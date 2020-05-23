@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TetrisCanvas",
+            "request": "launch",
+            "mainClass": "View.TetrisCanvas",
+            "projectName": "username-tetris"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TetrisGUIMain",
+            "request": "launch",
+            "mainClass": "View.TetrisGUIMain",
+            "projectName": "username-tetris"
+        }
+    ]
+}

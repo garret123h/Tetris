@@ -1,0 +1,16 @@
+package view;
+/**
+ * Test class for creating the GUI.
+ */
+public class TetrisGUIMain {
+    
+    /**
+     * Main method to run program.
+     * @param theArgs args
+     */
+    public static void main(final String[] theArgs) {
+        new TetrisGUI();
+        
+    }
+
+}
